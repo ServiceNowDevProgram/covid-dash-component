@@ -27,7 +27,7 @@
 		"@servicenow/ui-renderer-snabbdom": "orlando"
 	},
 	"devDependencies": {
-		"@servicenow/cli-archetype-dev": "17.0.3",
-		"@servicenow/cli-component-archetype-dev": "17.0.3"
+		"@servicenow/cli-archetype-dev": "24.0.1",
+		"@servicenow/cli-component-archetype-dev": "24.0.1"
 	}
 }
